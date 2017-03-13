@@ -2,10 +2,10 @@
 
 #######################
 #######################
-# this code is perfect for reading Excel file
+#requreid packages
 #######################
 #######################
-library(openxlsx)
+library(openxlsx)# this code is perfect for reading Excel file
 library(stringr)
 library(DBI)
 library(rJava)
